@@ -1,12 +1,12 @@
 # A02
 
-Github
+Github<br>
 1.)go to github.com<br>
 2.)create a account or login to existing account<br>
 3.)click the green button in the left side bar.<br>
 4.)create a new repository and name it A02<br>
 
-Git
+Git<br>
 1.) install at git https://git-scm.com/downloads(a already had it install for a different class)<br>
 2.) Open git create you ssh key with ssh-keygen -t ed25519 -C "your_github_email@example.com"<br>
 3.) use command cat ~/.ssh/github-key.pub to get the ssh key that you will copy. link it with you github account in the ssh settings<br>
